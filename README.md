@@ -1,5 +1,5 @@
 # Live-Location-Tracker
-A Basic App to track you &amp; your friends location live. Uses a Parse Server
+A Basic App to track you &amp; your friends location live. Functions very similar to uber, but Uses a Parse Server
 
 # License
 ```
