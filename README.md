@@ -1,4 +1,4 @@
-# Live-Location-Tracker
+# Live-Location-Tracker (Privacy)
 A Basic Privacy App to track you &amp; your friends location live. Functions very similar to uber, but Uses a Parse Server
 
 # License
